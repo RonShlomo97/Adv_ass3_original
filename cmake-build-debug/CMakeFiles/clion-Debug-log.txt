@@ -1,0 +1,4 @@
+/app/extra/clion/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/app/extra/clion/bin/ninja/linux/ninja -DCMAKE_C_COMPILER=/bin/gcc -G Ninja -S /home/ron/CLionProjects/Adv_Prog_Ass_3 -B /home/ron/CLionProjects/Adv_Prog_Ass_3/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ron/CLionProjects/Adv_Prog_Ass_3/cmake-build-debug
